@@ -1,0 +1,1 @@
+This is directory of the challenges offered on [CodeEval](http://codeeval.com/).
